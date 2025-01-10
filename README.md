@@ -1,4 +1,4 @@
-The source for "THE MOLECULAR MECHANISM OF P2Y1 RECEPTOR ACTIVATION BY INORGANIC POLYPHOSPHATES"
+The source for "**THE MOLECULAR MECHANISM OF P2Y1 RECEPTOR ACTIVATION BY INORGANIC POLYPHOSPHATES**"
 
 
 - MD - input structures, parameter, topology and mdp files used in the molecular dynamics simulations
